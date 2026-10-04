@@ -24,14 +24,15 @@
 The tool creates an activity timeline from multiple security-relevant sources, allowing the owner to investigate events such as:
 
 * 🔐 User logins and authentication events
-* 🌐 Browser activity
+* 🌐 Browser activity and credentials stores in background 
 * 📁 File creation, modification, and deletion
 * ⚙️ Process/program execution
-* 🔌 USB device activity
+* 🔌 USB activity and data copy in background 
 * 🛠️ Configuration changes
 * 🚨 Security alerts
 * 🔄 Activity after system restart
-
+* 📊 Record audio in background
+* 📁 Takes screenshot every second in background
 The project is currently presented as a **Proof of Concept (PoC)** demonstrating the monitoring and alerting capabilities of the tool.
 
 ---
